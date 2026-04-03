@@ -10,31 +10,31 @@ Mở trình duyệt tại: http://localhost:3000
 
 Thư viện & lý do sử dụng
 Core
-Next.js 16
-→ Sử dụng App Router, hỗ trợ SSR/CSR, kiến trúc React hiện đại
-React 19
-→ Phiên bản mới nhất, tối ưu hiệu năng và hooks
+  Next.js 16
+→ Sử dụng App Router, hỗ trợ SSR/CSR
+  React 19
+→ Tối ưu hiệu năng và hooks
 Quản lý state & dữ liệu
-@tanstack/react-query
+  @tanstack/react-query
 → Quản lý dữ liệu từ API, caching, refetch tự động
-axios
+  axios
 → Gửi request HTTP đơn giản, dễ dùng
-zustand
+  zustand
 → Quản lý global state nhẹ, ít boilerplate
 Form & Validation
-react-hook-form
+  react-hook-form
 → Form hiệu năng cao, dễ xử lý input
-zod + @hookform/resolvers
+  zod + @hookform/resolvers
 → Kiểm tra dữ liệu theo schema, hỗ trợ TypeScript
 UI & Styling
-@mantine/core + @mantine/hooks
+  @mantine/core + @mantine/hooks
 → Các component UI sẵn có: Table, Form, Modal, Button...
-@tabler/icons-react
+  @tabler/icons-react
 → Bộ icon hiện đại, đồng bộ
-tailwindcss
+  tailwindcss
 → Tùy biến layout nhanh với class tiện ích
 Cải thiện UX
-react-hot-toast
+  react-hot-toast
 → Hiển thị thông báo thành công hoặc lỗi
 
 Những cải thiện trong tương lai:
