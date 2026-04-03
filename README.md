@@ -1,6 +1,6 @@
 Cài đặt & Chạy dự án
 1. Clone dự án
-git clone <your-repo-url>
+git clone <https://github.com/dangnguyenhai50402-creator/user-management-dashboard>
 cd user-management-dashboard
 2. Cài đặt các thư viện
 npm install
